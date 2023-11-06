@@ -1,3 +1,3 @@
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="spotify-readme-rosy-three.vercel.app/api" alt="Current Spotify Song">
+  <img src="spotify-readme-phi-ten.vercel.app/api" alt="Current Spotify Song">
 </a>

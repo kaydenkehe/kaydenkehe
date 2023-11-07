@@ -1,2 +1,1 @@
-<img width="320" height="445" src="https://spotify-github-profile-nine-psi.vercel.app
-/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+<a href="https://novatorem-neon-six.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31it45u2gvhmwrqfxhielypfgo4y"></a>

@@ -1,10 +1,10 @@
 # Hey, I'm Kayden! 👋
 ### Connect with me:
 
-<a href="https://linkedin.com/in/kayden-kehe"><img src="./assets/linkedin.png" align="left" height="40" width="40" ></a>
-<a href="https://youtube.com/@kaydenkehe"><img src="./assets/youtube.png" align="left" height="40" width="40" ></a>
-<a href="https://instagram.com/kayden.kehe"><img src="./assets/instagram.png" align="left" height="40" width="40" ></a>
-<a href="https://twitter.com/kaydenkehe"><img src="./assets/twitter.png" align="left" height="40" width="40" ></a>
+<a href="https://linkedin.com/in/kayden-kehe"><img src="./assets/linkedin.png" align="left" height="50" width="50" ></a>
+<a href="https://youtube.com/@kaydenkehe"><img src="./assets/youtube.png" align="left" height="50" width="50" ></a>
+<a href="https://instagram.com/kayden.kehe"><img src="./assets/instagram.png" align="left" height="50" width="50" ></a>
+<a href="https://twitter.com/kaydenkehe"><img src="./assets/twitter.png" align="left" height="50" width="50" ></a>
 
 &nbsp;<div align="center">
   ### 🎧 I'm currently listening to...

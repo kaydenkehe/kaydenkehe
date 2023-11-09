@@ -1,5 +1,5 @@
 # Hey, I'm Kayden! 👋
-## Connect with me:
+### Connect with me:
 
 <a href="https://linkedin.com/in/kayden-kehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>
 <a href="https://youtube.com/@kaydenkehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>

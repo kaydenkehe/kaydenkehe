@@ -2,11 +2,8 @@
 ## Connect with me:
 
 <a href="https://linkedin.com/in/kayden-kehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>
-&nbsp;&nbsp;
 <a href="https://youtube.com/@kaydenkehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>
-&nbsp;&nbsp;
 <a href="https://instagram.com/kayden.kehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>
-&nbsp;&nbsp;
 <a href="https://twitter.com/kaydenkehe"><img src="./assets/linkedin.png" align="left" height="30" width="30" ></a>
 
 &nbsp;<div align="center">

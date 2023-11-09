@@ -1,13 +1,13 @@
 # Hey, I'm Kayden! 👋
 ## Connect with me:
 
-[![website](./assets/linkedin.svg=100x100)](https://linkedin.com/in/kayden-kehe)
+[![website](./assets/linkedin.png)](https://linkedin.com/in/kayden-kehe)
 &nbsp;&nbsp;
-[![website](./assets/youtube.svg=100x100)](https://youtube.com/@kaydenkehe)
+[![website](./assets/linkedin.png)](https://youtube.com/@kaydenkehe)
 &nbsp;&nbsp;
-[![website](./assets/instagram.svg=100x100)](https://instagram.com/kayden.kehe)
+[![website](./assets/linkedin.png)](https://instagram.com/kayden.kehe)
 &nbsp;&nbsp;
-[![website](./assets/x.svg=100x100)](https://twitter.com/kaydenkehe)
+[![website](./assets/linkedin.png)](https://twitter.com/kaydenkehe)
 
 &nbsp;<div align="center">
   ### 🎧 I'm currently listening to...

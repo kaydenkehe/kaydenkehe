@@ -1,7 +1,4 @@
 # Hey, I'm Kayden! 👋
-
-![](./assets/hackin.gif)
-
 ### Connect with me:
 
 <a href="https://linkedin.com/in/kayden-kehe"><img src="./assets/linkedin.png" align="left" height="50" width="50" ></a>
